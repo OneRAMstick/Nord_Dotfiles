@@ -1,0 +1,16 @@
+configuration {
+    show-icons: true;
+    font: "Noto Sans 11";
+    icon-theme: "Oranchelo";
+
+    display-ssh:    "󰣀 ssh:";
+    display-run:    "󱓞 run:";
+    display-drun:   "󰣖 drun:";
+    display-window: "󱂬 window:";
+    display-combi:  "󰕘 combi:";
+    display-filebrowser: "󰉋 filebrowser:";
+
+    dpi: 120;
+}
+
+@theme "nord"
