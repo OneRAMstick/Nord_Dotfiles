@@ -1,0 +1,8 @@
+if status is-interactive
+end
+set fish_greeting "                                                                            
+uuuuuuuuu# #      #                      #           #            #      ###  #   #  
+# # ###  #  ### ### ### ###     ###  ## ### # #      ##      ##   # ##   #  
+                                      #       #       ### ###  #  
+"
+starship init fish | source
