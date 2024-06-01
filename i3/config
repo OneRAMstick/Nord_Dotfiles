@@ -1,3 +1,4 @@
+# This is the trashiest code ever ! :poggers:
 exec_always $HOME/setwal.sh
 exec feh --bg-fill $HOME/wal.png
 #prevent picom issue at startup
